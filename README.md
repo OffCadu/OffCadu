@@ -1,4 +1,4 @@
-<h1> Olá devs, meu nome é Caio Duarte, sou formado em análise e desenvolvimento de sistemas, tenho experiência em algumas linguagens como, java, C, HTML, PHP.
+<h1> Olá devs, meu nome é Caio Duarte, sou formado em análise e desenvolvimento de sistemas, tenho experiência em algumas linguagens como, Java, C, HTML, PHP.
 Também tenho conhecimento no framework laravel, em banco de dados MySQL e metodologias ágeis. Tenho certificado em alguns cursos destas linguagens apresentadas acima e conhecimento prático em todas. </h1>
 
 <div>
