@@ -1,5 +1,4 @@
-<h1> Olá devs, meu nome é Caio Duarte, sou formado em análise e desenvolvimento de sistemas, tenho experiência em algumas linguagens como, Java, C, HTML, PHP.
-Também tenho conhecimento no framework laravel, em banco de dados MySQL e metodologias ágeis. Tenho certificado em alguns cursos destas linguagens apresentadas acima e conhecimento prático em todas. </h1>
+<h1> Olá, eu me chamo Caio Duarte, sou um desenvolvedor web em crescimento, tenho experiências crescentes em HTML5, CSS3, BootStrap 4, JS, MySQL, JQuery, PHP 7, Laravel, NodeJS.  Tenho alguns projetos pessoais e acadêmicos já feitos nestas linguagens, e estou sempre a busca de melhoria, tanto pessoal quanto profissional.. </h1>
 
 <div>
   <a href="https://github.com/OffCadu">
