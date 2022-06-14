@@ -1,12 +1,11 @@
 <h1 align="center">Caio Duarte Silva</h1>
 
 <a href="https://github.com/OffCadu">
-<img height="160em" align='right' src="https://github-readme-stats.vercel.app/api?username=OffCadu&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide=stars,issues"/>
+<img height="180px" align='right' src="https://github-readme-stats.vercel.app/api?username=OffCadu&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide=stars,issues"/>
 </a>
 
-<p>
+
 Olá devs! Sou um desenvolvedor web em crescimento, tenho experiências crescentes em HTML5, CSS3, BootStrap 4, JS, MySQL, JQuery, PHP 7, Laravel, NodeJS. Tenho alguns projetos pessoais e acadêmicos já feitos nestas linguagens, e estou sempre a busca de melhoria, tanto pessoal quanto profissional.
-</p>
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=OffCadu&color=f8efd4&style=for-the-badge&logo=GitHub">
 <br>
