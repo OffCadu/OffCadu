@@ -1,7 +1,8 @@
 <h1 align="center">Caio Duarte Silva</h1>
 
-<a href="https://github.com/rafaballerini">
-<img height="180em" align='right' src="https://github-readme-stats.vercel.app/api sername=rafaballerini2show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/OffCadu">
+<img height="180em" align='right' src="https://github-readme-stats.vercel.app/api?username=OffCadu&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide=stars,issues"/>
+</a>
 
 Olá devs! Sou um desenvolvedor web em crescimento, tenho experiências crescentes em HTML5, CSS3, BootStrap 4, JS, MySQL, JQuery, PHP 7, Laravel, NodeJS. Tenho alguns projetos pessoais e acadêmicos já feitos nestas linguagens, e estou sempre a busca de melhoria, tanto pessoal quanto profissional.
 
