@@ -1,6 +1,6 @@
 <h1 align="center">Caio Duarte Silva</h1>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=OffCadu&show_icons=true&title_color=57a5fe&text_color=C2D0D8&icon_color=1850A8&bg_color=0D1117&cache_seconds=2300">
+<img align='right' height="180em" src="https://github-readme-stats.vercel.app/api?username=OffCadu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 Olá devs! Sou um desenvolvedor web em crescimento, tenho experiências crescentes em HTML5, CSS3, BootStrap 4, JS, MySQL, JQuery, PHP 7, Laravel, NodeJS. Tenho alguns projetos pessoais e acadêmicos já feitos nestas linguagens, e estou sempre a busca de melhoria, tanto pessoal quanto profissional.
 
