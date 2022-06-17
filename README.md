@@ -7,7 +7,6 @@
 
 Olá devs! Sou um desenvolvedor web em crescimento, tenho experiências crescentes em HTML5, CSS3, BootStrap 4, JS, MySQL, JQuery, PHP 7, Laravel, NodeJS. Tenho alguns projetos pessoais e acadêmicos já feitos nestas linguagens, e estou sempre a busca de melhoria, tanto pessoal quanto profissional.
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=OffCadu&color=f8efd4&style=for-the-badge&logo=GitHub">
 <br>
 
 <hr>
