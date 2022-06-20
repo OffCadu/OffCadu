@@ -1,7 +1,7 @@
 <h1 align="center">Caio Duarte Silva</h1>
 
 <a href="https://github.com/OffCadu">
-<img height="135px" align='right' src="https://github-readme-stats.vercel.app/api?username=OffCadu&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide=stars,issues"/>
+<img height="135px" align='right' src="https://github-readme-stats.vercel.app/api?username=OffCaduu&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide=stars,issues"/>
 </a>
 
 
