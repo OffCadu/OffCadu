@@ -17,8 +17,8 @@ Olá devs! Sou um desenvolvedor web em crescimento, tenho experiências crescent
 
 <div style="display: inline_block">
   <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> - 
-  <img align="center" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/> - 
   <img align="center" height="80px" src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=148&color=1572b6"/> - 
+  <img align="center" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/> - 
   <img align="center" height="80px" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=1572b6"/> - 
   <img align="center" height="80px" src="https://icongr.am/devicon/git-original.svg?size=148&color=1572b6"/> - 
   <img align="center" height="115px" src="https://icongr.am/devicon/php-original.svg?size=148&color=1572b6"/> - 
