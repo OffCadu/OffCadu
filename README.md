@@ -11,9 +11,7 @@ Olá devs! Sou um desenvolvedor web em crescimento, tenho experiências crescent
 
 <hr>
 
-<h4>
-:rocket:  Possuo conhecimentos em
-</h4>
+<h3> :rocket:&nbsp;Possuo conhecimentos em: </h3>
 
 <div style="display: inline_block">
   <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> - 
@@ -28,7 +26,7 @@ Olá devs! Sou um desenvolvedor web em crescimento, tenho experiências crescent
   <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   </div>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas:&nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Caio Duarte](https://img.shields.io/badge/-Caio_Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-duarte-8785a01b7)](https://www.linkedin.com/in/caio-duarte-8785a01b7)
 [![Gmail Badge](https://img.shields.io/badge/-cduarteflk@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cduarteflk@hotmail.com)](mailto:cduarteflk@hotmail.com)
