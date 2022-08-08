@@ -5,7 +5,7 @@
 </a>
 
 
-Olá devs! Sou um desenvolvedor web em crescimento, tenho experiências crescentes em HTML5, CSS3, SASS, BootStrap 4, JS, MySQL, JQuery, PHP 7, Laravel, NodeJS. Tenho alguns projetos pessoais e acadêmicos já feitos nestas linguagens, e estou sempre a busca de melhoria, tanto pessoal quanto profissional.
+Olá devs! Sou um desenvolvedor web em crescimento, tenho experiências crescentes em HTML5, CSS3, SASS, BootStrap 4, JS, React, MySQL, JQuery, PHP 7, Laravel, NodeJS. Tenho alguns projetos pessoais e acadêmicos já feitos nestas linguagens, e estou sempre a busca de melhoria, tanto pessoal quanto profissional.
 
 <br>
 
