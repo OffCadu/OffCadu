@@ -23,7 +23,8 @@ Olá devs! Sou um desenvolvedor web em crescimento, tenho experiências crescent
   <img align="center" height="80px" src="https://icongr.am/devicon/git-original.svg?size=148&color=1572b6"/> - 
   <img align="center" height="115px" src="https://icongr.am/devicon/php-original.svg?size=148&color=1572b6"/> - 
   <img align="center" height="115px" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=1572b6"/> -
-  <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> - 
+  <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   </div>
 
 <h3> :earth_americas:&nbsp;Onde me encontrar: </h3> 
