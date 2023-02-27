@@ -14,17 +14,18 @@ Olá devs, sou um desenvolvedor web em crescimento, tenho experiências crescent
 <h3> :rocket:&nbsp;Possuo conhecimentos em: </h3>
 
 <div style="display: inline_block">
-  <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> - 
-  <img align="center" height="80px" src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=148&color=1572b6"/> - 
+  <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/> - 
+  <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/> - 
   <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -
   <img align="center" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/> - 
-  <img align="center" height="80px" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=1572b6"/> - 
-  <img align="center" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" /> -
-  <img align="center" height="80px" src="https://icongr.am/devicon/git-original.svg?size=148&color=1572b6"/> - 
-  <img align="center" height="115px" src="https://icongr.am/devicon/php-original.svg?size=148&color=1572b6"/> - 
-  <img align="center" height="115px" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=1572b6"/> -
+  <img align="center" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> - 
+  <img align="center" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" /> -
+  <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> - 
+  <img align="center" height="115px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> - 
+  <img align="center" height="115px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> -
   <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> - 
-  <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />-
+  <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   </div>
 
 <h3> :earth_americas:&nbsp;Onde me encontrar: </h3> 
