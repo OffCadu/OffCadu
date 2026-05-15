@@ -4,9 +4,7 @@
 <img height="135px" align='right' src="https://github-readme-stats.vercel.app/api?username=OffCadu&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide=prs,contribs"/>
 </a>
 
-
-Olá devs, sou um desenvolvedor web em crescimento, tenho experiências crescentes em HTML5, CSS3, SASS, BootStrap 4, JS, React, MySQL, JQuery, PHP 7, Laravel, NodeJS. Tenho alguns projetos pessoais e acadêmicos já feitos nestas linguagens, e estou sempre a busca de melhoria, tanto pessoal quanto profissional.
-
+Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista e atuo como Desenvolvedor Full Stack, focado na criação de soluções modernas, robustas e escaláveis. Tenho experiência em Desenvolvimento Web, utilizando HTML, CSS, JavaScript e jQuery, além de conhecimentos básicos em React no front-end. No back-end, trabalho principalmente com PHP e o framework Laravel, e também possuo experiência com Python, linguagem na qual venho me aprofundando por meio de estudos e projetos utilizando Flask e a biblioteca Pandas. Em Python, atuei profissionalmente com automação de tarefas, especialmente no tratamento e manipulação de planilhas Excel, contribuindo para a otimização de processos e ganho de produtividade. Também tenho prática em integração de sistemas via APIs, facilitando a comunicação entre aplicações e tornando os fluxos mais eficientes. Trabalho com bancos de dados PostgreSQL e MySQL, sempre priorizando a integridade, organização e desempenho das informações. Possuo experiência com versionamento de código utilizando Git e GitHub Desktop, além de já ter trabalhado com ferramentas como Docker, Figma e FileZilla. Tenho vivência em ambientes Linux e Windows, com maior familiaridade no ecossistema Windows, e estou sempre em busca de aprimoramento técnico e boas práticas de desenvolvimento. 
 <br>
 
 <hr>
