@@ -29,5 +29,5 @@ Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulist
 
 [![Linkedin: Caio Duarte](https://img.shields.io/badge/-Caio_Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-duarte-8785a01b7)](https://www.linkedin.com/in/caio-duarte-8785a01b7)
 [![Gmail Badge](https://img.shields.io/badge/-cduarteflk@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cduarteflk@hotmail.com)](mailto:cduarteflk@hotmail.com)
-  <a href="https://api.whatsapp.com/send?phone=5561986549624" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=556193210593" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561986549624"/></a>
