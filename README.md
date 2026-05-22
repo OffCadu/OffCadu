@@ -22,7 +22,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulist
   <img align="center" height="115px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> - 
   <img align="center" height="115px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> -
   <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> - 
-  <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />-
+  <img align="center" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   </div>
 
 <h3> :earth_americas:&nbsp;Onde me encontrar: </h3> 
